@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int main(){
-	printf("MASTER, MASTER");
+	printf("M1ASTER, MASTER");
 	printf("func_1");
 	return 0;
 }
