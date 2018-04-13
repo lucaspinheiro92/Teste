@@ -3,5 +3,6 @@
 
 int main(){
 	printf("MASTER, MASTER");
+	printf("func_1");
 	return 0;
 }
